@@ -38,6 +38,7 @@ I’m a **DevOps Engineer** experienced in building and supporting cloud platfor
 
 ### 🌟 GitHub Stats
 
-![Frances' GitHub stats](https://github-readme-stats.vercel.app/api?username=OguFran&show_icons=true&theme=radical)
+![Status](https://img.shields.io/badge/Status-Open%20to%20Work-2ea44f?style=for-the-badge&logo=opensourceinitiative&logoColor=white)
+
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OguFran&layout=compact&theme=radical)
